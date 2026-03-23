@@ -2,16 +2,23 @@
 
 ## 👨🏾‍💻 About Me
 
-🎓 Junior Computer Science student @ Caldwell University, minoring in Data Analytics  
+🎓 Senior Computer Science student @ Caldwell University, 
 🌍 Born in Ghana | Based in New Jersey  
 🧠 Passionate about web development, data visualization, and building tools that help people  
-💪🏾 Vice President of ASA & Iota Phi Theta (Iota Gamma Chapter)
+💪🏾 Vice President of ASA & President of Iota Phi Theta (Iota Gamma Chapter)
 
-## 🚀 Projects I'm Working On
+## 🚀 Projects I'm Working On/Worked On
 
-- ✅ **Task Manager App** – Simple CRUD task tracking tool using HTML, CSS, JavaScript & NeDB  
-- 🛠 Currently learning: Express.js, GitHub Pages, and API design  
-- 🔜 Building out more clean beginner-level apps this summer
+**-Shadow Boxing AI Game | Caldwell, NJ**
+-Making a real-time motion-controlled 3D boxing game with Three.js as the rendering engine and MediaPipe for skeleton tracking and gesture detection.
+-Implemented a real-time Audio System using Web Audio API that synced directional sound effects (hits, blocks, taunts) with specific motion gestures.
+-Implemented Integrated WebRTC streams for multiplayer and synchronized the data across all devices to allow real-time global leaderboards.
+-Writing code to handle the collision detection attacks and state machines to differentiate between attacking and blocking.
+-Working as a team of 5 developers in an Agile environment, currently responsible for managing the full Software Development Life Cycle (SDLC).
+
+**AI-Powered Document Verification Engine (Medi-Verify) | October 2025**
+Built an automated extraction pipeline to transform unstructured PDFs using Python (FastAPI) and LangChain to produce structured JSON outputs with an accuracy of 98%.
+Completed GPT-4o API integration for logical cross-referencing and automated error flagging, and was able to reduce manual review of hundreds of documents by 70%.
 
 ## 🧰 Tech Stack
 
