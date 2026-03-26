@@ -7,39 +7,42 @@
 🧠 Passionate about web development, data visualization, and building tools that help people  
 💪🏾 Vice President of ASA & President of Iota Phi Theta (Iota Gamma Chapter)
 
-## 🚀 Projects I'm Working On/Worked On
+I’m a Computer Science student at Caldwell University focused on building real-time systems, AI-powered applications, and scalable backend infrastructure.
 
-**-Shadow Boxing AI Game | Caldwell, NJ**
--Making a real-time motion-controlled 3D boxing game with Three.js as the rendering engine and MediaPipe for skeleton tracking and gesture detection.
--Implemented a real-time Audio System using Web Audio API that synced directional sound effects (hits, blocks, taunts) with specific motion gestures.
--Implemented Integrated WebRTC streams for multiplayer and synchronized the data across all devices to allow real-time global leaderboards.
--Writing code to handle the collision detection attacks and state machines to differentiate between attacking and blocking.
--Working as a team of 5 developers in an Agile environment, currently responsible for managing the full Software Development Life Cycle (SDLC).
+## What I Work On
+- Real-time systems (WebRTC, WebSockets)
+- AI applications (LLMs, LangChain, RAG pipelines)
+- Data pipelines & backend engineering (Python, SQL, AWS)
+- Full-stack applications with performance-focused design
 
-**AI-Powered Document Verification Engine (Medi-Verify) | October 2025**
-Built an automated extraction pipeline to transform unstructured PDFs using Python (FastAPI) and LangChain to produce structured JSON outputs with an accuracy of 98%.
-Completed GPT-4o API integration for logical cross-referencing and automated error flagging, and was able to reduce manual review of hundreds of documents by 70%.
+## Featured Projects
 
-## 🧰 Tech Stack
+### 🥊 Real-Time AI Boxing Game
+A motion-controlled multiplayer game powered by MediaPipe and WebRTC.
+- Real-time gesture detection and synchronization across clients
+- Event-driven system for attack/block classification
+- Built with Three.js, WebRTC, Web Audio API
 
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) 
-![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)  
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5) 
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
+### 📄 Medi-Verify (AI Document Processing)
+AI-powered pipeline that transforms unstructured PDFs into structured data.
+- 98% extraction accuracy using Python + LangChain
+- Reduced manual document review by 70%
+- Outputs structured JSON for downstream systems
 
-**Web & Tools:**  
-![NeDB](https://img.shields.io/badge/-NeDB-black?style=flat) 
-![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-black?style=flat&logo=visual-studio-code)  
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)  
-![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=flat&logo=powerbi)
+## Tech Stack
+**Languages:** Python, JavaScript, Java, SQL  
+**Backend:** FastAPI, Node.js, REST APIs, WebSockets  
+**Cloud & DevOps:** AWS (EC2, S3, Lambda), Docker, CI/CD  
+**AI/Data:** LLMs, RAG, LangChain, NumPy  
+**Databases:** PostgreSQL, MySQL, MongoDB  
 
-## 📫 How to Reach Me
+## Currently
+- Building real-time multiplayer systems  
+- Exploring scalable data pipelines and AI workflows  
 
-📧 forlinfamoamahantwi@gmail.com  
-🔗 [LinkedIn](#) (www.linkedin.com/in/famoamahantwi)
+## Looking For
+Software Engineering, Data Engineering, or AI Internship roles
 
----
+📫 Reach me: forlinfamoamahantwi@gmail.com
 
 > “Still learning, still building — one line of code at a time.” 🚀
